@@ -1,0 +1,34 @@
+{
+  "name": "i18next-capacitor-language-detector",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pioooooo/i18next-capacitor-language-detector.git"
+  },
+  "author": "Pioooooo <pioooooo.sun@gmai.com>",
+  "license": "MIT",
+  "keywords": [
+    "ionic",
+    "capacitor",
+    "i18n",
+    "i18next"
+  ],
+  "devDependencies": {
+    "@capacitor/preferences": "^4.0.2",
+    "i18next": "^22.4.9"
+  },
+  "peerDependencies": {
+    "@capacitor/preferences": ">=4.0.2",
+    "i18next": ">=13.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Pioooooo/i18next-capacitor-language-detector/issues"
+  },
+  "homepage": "https://github.com/Pioooooo/i18next-capacitor-language-detector#readme"
+}
